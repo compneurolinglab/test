@@ -1,7 +1,6 @@
 ---
 layout: splash
 classes: wide
-title: Talks
 permalink: /
 header:
   overlay_color: "#000"
