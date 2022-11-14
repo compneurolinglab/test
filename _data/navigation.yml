@@ -3,5 +3,9 @@ main:
     url: /
   - title: "Team"
     url: /team/
+  - title: "Publications"
+    url: /
+  - title: "Tools & Data"
+    url: /
   - title: "Talks"
     url: /talks/
