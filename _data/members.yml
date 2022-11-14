@@ -1,0 +1,15 @@
+- first: Jixing
+  last: Li
+  role: Director
+  year: 1000000
+  headshot: "/assets/headshots/jixing.jpg"
+  email: "jixingli@cityu.edu.hk"
+  alum: false
+  
+- first: Hongbin
+  last: Qing
+  role: Ph.D. Student
+  year: 2022
+  alum: false
+  email: "hqing2-c@my.cityu.edu.hk"
+  headshot: "/assets/headshots/hongbin.jpg"
