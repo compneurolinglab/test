@@ -4,8 +4,8 @@ main:
   - title: "Team"
     url: /team/
   - title: "Publications"
-    url: /
+    url: /publications/
   - title: "Tools & Data"
-    url: /
+    url: /tools-and-data/
   - title: "Talks"
     url: /talks/
