@@ -14,7 +14,7 @@ header:
   <tbody>
     <tr>
       <th>Date</th>
-      <th>Speaker</th>
+      <th>Representer</th>
       <th>Topic</th>
       <th>Link</th>
     </tr>
