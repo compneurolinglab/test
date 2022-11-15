@@ -21,7 +21,7 @@ header:
     <tr>
       <td>18th, NOV</td>
       <td>Changjiang Gao</td>
-      <td><a href="/papers/Xie_2022.pdf> Geometry of sequence working memory in macaque prefrontal cortex </a></td>
+      <td><a href="/papers/Xie_2022.pdf"> Geometry of sequence working memory in macaque prefrontal cortex </a></td>
       <td><a href="https://cityu.zoom.us/j/9305130707?pwd=dyt3Z2Rrd1VPNHV0RnF6LzFjYnRFQT09#success"> Zoom </a></td>
     </tr>
     <tr>
